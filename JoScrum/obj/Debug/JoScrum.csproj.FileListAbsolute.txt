@@ -1,0 +1,16 @@
+C:\Users\jovan\source\repos\JoScrum\JoScrum\bin\Debug\JoScrum.exe.config
+C:\Users\jovan\source\repos\JoScrum\JoScrum\bin\Debug\JoScrum.exe
+C:\Users\jovan\source\repos\JoScrum\JoScrum\bin\Debug\JoScrum.pdb
+C:\Users\jovan\source\repos\JoScrum\JoScrum\obj\Debug\JoScrum.csprojResolveAssemblyReference.cache
+C:\Users\jovan\source\repos\JoScrum\JoScrum\obj\Debug\JoScrum.Properties.Resources.resources
+C:\Users\jovan\source\repos\JoScrum\JoScrum\obj\Debug\JoScrum.csproj.GenerateResource.cache
+C:\Users\jovan\source\repos\JoScrum\JoScrum\obj\Debug\JoScrum.csproj.CoreCompileInputs.cache
+C:\Users\jovan\source\repos\JoScrum\JoScrum\obj\Debug\JoScrum.exe
+C:\Users\jovan\source\repos\JoScrum\JoScrum\obj\Debug\JoScrum.pdb
+C:\Users\jovan\source\repos\JoScrum\JoScrum\bin\Debug\MaterialSkin.dll
+C:\Users\jovan\source\repos\JoScrum\JoScrum\obj\Debug\JoScrum.csproj.CopyComplete
+C:\Users\jovan\source\repos\JoScrum\JoScrum\obj\Debug\JoScrum.MainForm.resources
+C:\Users\jovan\source\repos\JoScrum\JoScrum\obj\Debug\JoScrum.AddStoryForm.resources
+C:\Users\jovan\source\repos\JoScrum\JoScrum\bin\Debug\LiteDB.dll
+C:\Users\jovan\source\repos\JoScrum\JoScrum\bin\Debug\LiteDB.xml
+C:\Users\jovan\source\repos\JoScrum\JoScrum\obj\Debug\JoScrum.AddTaskForm.resources
